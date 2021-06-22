@@ -1,0 +1,32 @@
+<?php
+include("roles.php");
+
+$pagesCustom["area"] = $pages["area"];
+$pagesCustom["contenidos"] = $pages["contenidos"];
+$pagesCustom["multimedia"] = $pages["multimedia"];
+$pagesCustom["banners"] = $pages["banners"];
+$pagesCustom["productos"] = $pages["productos"];
+$pagesCustom["importar"] = $pages["importar"];
+$pagesCustom["exportar"] = $pages["exportar"];
+$pagesCustom["ecommerce"] = $pages["ecommerce"];
+$pagesCustom["pedidos"] = $pages["pedidos"];
+$pagesCustom["pagos"] = $pages["pagos"];
+$pagesCustom["envios"] = $pages["envios"];
+$pagesCustom["descuentos"] = $pages["descuentos"];
+$pagesCustom["marketing"] = $pages["marketing"];
+$pagesCustom["landing"] = $pages["landing"];
+$pagesCustom["analitica"] = $pages["analitica"];
+$pagesCustom["comentariosfb"] = $pages["comentariosfb"];
+$pagesCustom["usuarios"] = $pages["usuarios"];
+$pagesCustom["categorias"] = $pages["categorias"];
+$pagesCustom["subcategorias"] = $pages["subcategorias"];
+$pagesCustom["configuracion"] = $pages["configuracion"];
+$pagesCustom["administradores"] = $pages["administradores"];
+$pagesCustom["mercadolibre"] = $pages["mercadolibre"];
+$pagesCustom["subir-archivos"] = $pages["subir-archivos"];
+$pagesCustom["productos-relacionados"] = $pages["productos-relacionados"];
+$pagesCustom["seo"] = $pages["seo"];
+$pagesCustom["menu"] = $pages["menu"];
+$pagesCustom["idiomas"] = $pages["idiomas"];
+$pagesCustom["excel"] = $pages["excel"];
+$pagesCustom["estados-pedidos"] = $pages["estados-pedidos"];
